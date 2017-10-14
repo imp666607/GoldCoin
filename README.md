@@ -1,0 +1,2 @@
+# GoldCoin
+Cryptocurrency for you.
